@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+client:
+  person:
+    base-path: http://localhost:8082
